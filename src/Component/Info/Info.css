@@ -1,0 +1,25 @@
+.info {
+  width: 100% !important;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.info .details {
+  -webkit-box-flex: 2 !important;
+      -ms-flex: 2 !important;
+          flex: 2 !important;
+}
+
+.info .info-core {
+  -webkit-box-flex: 4.5 !important;
+      -ms-flex: 4.5 !important;
+          flex: 4.5 !important;
+}
+
+.info .cart {
+  -webkit-box-flex: 1 !important;
+      -ms-flex: 1 !important;
+          flex: 1 !important;
+}
+/*# sourceMappingURL=Info.css.map */

@@ -1,0 +1,12 @@
+.infoCore {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 300px;
+}
+
+.infoCore img {
+  width: 300px;
+  height: 300px;
+}
+/*# sourceMappingURL=InfoCore.css.map */

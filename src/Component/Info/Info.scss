@@ -1,0 +1,14 @@
+.info {
+  width: 100% !important;
+  display: flex !important;
+
+  .details {
+    flex: 2 !important;
+  }
+  .info-core {
+    flex: 4.5 !important;
+  }
+  .cart {
+    flex: 1 !important;
+  }
+}
